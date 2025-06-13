@@ -158,7 +158,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## 📬 Contact
 
-For questions, please open an [issue](https://github.com/your-username/AskMyArticle/issues) or connect with me on [LinkedIn](https://www.linkedin.com/).
+For questions, please open an [issue](https://github.com/your-username/AskMyArticle/issues) or connect with me or Swathi on LinkedIn [Rohan](www.linkedin.com/in/rohan-badugula) or [Swathi](https://www.linkedin.com/in/swathigunti) .
 
 ---
 
