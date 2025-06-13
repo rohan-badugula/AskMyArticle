@@ -9,6 +9,9 @@
 
 ## Overview
 
+![AskMyArticle Screenshot](images/screenshot1.jpeg)
+
+
 **AskMyArticle** is an interactive, AI-powered web application designed to transform how users engage with online written content. Built with **Streamlit**, this tool empowers users to input up to three publicly available article URLs and receive insightful, context-aware answers to their questions — in real time.
 
 Using a powerful combination of OpenAI's language models, **FAISS vector indexing**, and LangChain's Retrieval QA pipeline, AskMyArticle processes and semantically indexes article content into meaningful vector representations. This enables users to perform deep semantic searches and ask natural-language questions with reliable and accurate source references.
