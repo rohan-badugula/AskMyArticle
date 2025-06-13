@@ -1,4 +1,4 @@
-# 📰 AskMyArticle: Smart Q&A from Online Articles
+# 📰 AskMyArticle: End-to-End Retrieval-Augmented Question Answering from Online Articles
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)  
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)  
