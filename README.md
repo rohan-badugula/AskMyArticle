@@ -45,6 +45,7 @@ AskMyArticle/
 │
 ├── requirements.txt              # Python dependencies
 ├── LICENSE                       # Open-source license (MIT)
+├── contributing.md               # contribution documentation
 ├── README.md                     # Project documentation
 ```
 
