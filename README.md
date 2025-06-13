@@ -56,7 +56,7 @@ AskMyArticle/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AskMyArticle.git
+git clone https://github.com/rohan-badugula/AskMyArticle.git
 cd AskMyArticle
 ```
 
