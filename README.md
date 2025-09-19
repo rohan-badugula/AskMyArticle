@@ -25,7 +25,7 @@ Whether you’re a student conducting research, a journalist analyzing multiple 
 - **Multi-URL Ingestion:** Add and process up to **three article URLs** at once — ideal for comparing sources or exploring multiple perspectives.
 - **Semantic Vector Search:** Utilizes **OpenAI Embeddings** to convert article content into high-dimensional vector representations, stored efficiently using **FAISS**.
 - **Context-Aware Q&A:** Employs **LangChain’s RetrievalQAWithSourcesChain**, which retrieves the most relevant chunks of information and generates grounded answers — along with source references.
-- **User-Friendly Interface:** Designed with **Streamlit**, offering a clean and interactive frontend where users can add URLs, ask questions, and view AI responses with ease.
+- **User-Friendly Interface:** Comes with a **Streamlit** web app and an optional **Tkinter desktop GUI** so you can interact with the tool in the browser or as a standalone application.
 - **Persistent Indexing:** All embeddings and vector stores are saved locally in the `INDEX/` directory, allowing for re-use without reprocessing articles every session.
 - **Secure Key Handling:** API keys are managed using a `.env` file and loaded securely using the `dotenv` package to keep your credentials safe.
 
@@ -90,6 +90,12 @@ OPENAI_API_KEY=your-openai-api-key
 
 ```bash
 streamlit run tool.py
+```
+
+For a simple **desktop GUI** built with Tkinter, run:
+
+```bash
+python gui.py
 ```
 
 ---
